@@ -3,7 +3,7 @@
   
 var img;
 function preload() {
-  img = loadImage("images/Scribble.png"); 
+  img = loadImage("Scribble.png"); 
 }
 
 function setup () {  
